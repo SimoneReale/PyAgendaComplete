@@ -23,5 +23,5 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest
+        python test_agenda.py
 
